@@ -6,7 +6,6 @@ class App:
         self.master = master
         self.master.title("Seleção de Arquivo")
         self.master.geometry("800x650")
-        self.master.resizable(False, False)
 
         self.data_handler = DataHandler()
 
