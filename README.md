@@ -12,7 +12,7 @@ Este projeto utiliza Python para criar uma interface gráfica (GUI) simples com 
 
 - `pandas`: Para manipulação de arquivos Excel e filtragem de dados.
 - `tkinter`: Para criação de uma interface gráfica que permite ao usuário selecionar o arquivo.
-- `tabulate`: Para exibir os dados filtrados em um formato tabular legível no console.
+- `tabulate`: Para exibir os dados filtrados em um formato tabular legível na interface.
 
 ## Como usar
 
