@@ -1,4 +1,4 @@
-from arquivos import *
+from DataHandler import *
 class App:
     """Classe responsável pela interface gráfica e interação com o usuário."""
     

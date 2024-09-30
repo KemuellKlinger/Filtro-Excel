@@ -1,4 +1,4 @@
-from Janela import *
+from App import *
 # Inicializando a aplicação
 if __name__ == "__main__":
     root = Tk()
